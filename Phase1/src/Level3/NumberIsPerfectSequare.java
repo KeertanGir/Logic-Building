@@ -17,6 +17,7 @@ public class NumberIsPerfectSequare {
 
             if(i*i == num ){
                 System.out.println("Number is Perfect square!");
+
                 return;
             }
 
